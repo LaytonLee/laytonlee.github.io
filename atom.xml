@@ -6,7 +6,7 @@
   <link href="https://laytonlee.github.io/atom.xml" rel="self"/>
   
   <link href="https://laytonlee.github.io/"/>
-  <updated>2022-04-15T11:41:55.185Z</updated>
+  <updated>2022-04-15T13:38:50.670Z</updated>
   <id>https://laytonlee.github.io/</id>
   
   <author>
@@ -21,11 +21,17 @@
     <link href="https://laytonlee.github.io/2022/04/15/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A32-1/"/>
     <id>https://laytonlee.github.io/2022/04/15/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A32-1/</id>
     <published>2022-04-15T11:41:55.000Z</published>
-    <updated>2022-04-15T11:41:55.185Z</updated>
+    <updated>2022-04-15T13:38:50.670Z</updated>
     
     
     
     
+    <category term="Test" scheme="https://laytonlee.github.io/categories/Test/"/>
+    
+    
+    <category term="hexo" scheme="https://laytonlee.github.io/tags/hexo/"/>
+    
+    <category term="test" scheme="https://laytonlee.github.io/tags/test/"/>
     
   </entry>
   
@@ -34,7 +40,7 @@
     <link href="https://laytonlee.github.io/2022/04/15/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A32/"/>
     <id>https://laytonlee.github.io/2022/04/15/%E6%B5%8B%E8%AF%95%E6%96%87%E6%A1%A32/</id>
     <published>2022-04-15T11:40:42.000Z</published>
-    <updated>2022-04-15T11:48:17.625Z</updated>
+    <updated>2022-04-15T13:41:13.271Z</updated>
     
     <content type="html"><![CDATA[<p>这里面是测试文档2的内容</p><blockquote><p>Hello Hexo</p></blockquote><p>sfas </p>]]></content>
     
@@ -51,6 +57,14 @@
     
     
     
+    <category term="Test" scheme="https://laytonlee.github.io/categories/Test/"/>
+    
+    <category term="Test1" scheme="https://laytonlee.github.io/categories/Test/Test1/"/>
+    
+    
+    <category term="Test1" scheme="https://laytonlee.github.io/tags/Test1/"/>
+    
+    <category term="Test2" scheme="https://laytonlee.github.io/tags/Test2/"/>
     
   </entry>
   
@@ -59,7 +73,7 @@
     <link href="https://laytonlee.github.io/2022/04/14/Test/"/>
     <id>https://laytonlee.github.io/2022/04/14/Test/</id>
     <published>2022-04-14T14:24:31.000Z</published>
-    <updated>2022-04-15T11:47:59.070Z</updated>
+    <updated>2022-04-15T13:41:09.586Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Test-hexo"><a href="#Test-hexo" class="headerlink" title="Test hexo"></a>Test hexo</h1><p>这是一个测试页面</p>]]></content>
     
@@ -72,10 +86,12 @@
     
     
     
+    <category term="Test1" scheme="https://laytonlee.github.io/categories/Test1/"/>
+    
     
     <category term="hexo" scheme="https://laytonlee.github.io/tags/hexo/"/>
     
-    <category term="web" scheme="https://laytonlee.github.io/tags/web/"/>
+    <category term="teest" scheme="https://laytonlee.github.io/tags/teest/"/>
     
   </entry>
   
